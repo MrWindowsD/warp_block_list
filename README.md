@@ -2,7 +2,7 @@
 A personal list of domains that block WARP for configuration in Sing-box or other traffic filtering apps
 
 # custom-rules
-Here is a list of DNS rules for exceptions at the “package_name” level: [“ru.sberbankmobile”] -> ‘outbound’: “direct”
+Here is a list of DNS rules for exceptions at the "domain_suffix" level: [“ru.sberbankmobile”] -> ‘outbound’: “direct”
 For example:
 ``` json
 {
