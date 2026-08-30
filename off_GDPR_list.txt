@@ -12,6 +12,7 @@ ios.chat.openai.com
 anthropic.com
 claude.ai
 gemini.google.com
+alkalimakersuite-pa.clients6.google.com
 ai.google
 ai.google.dev
 generativelanguage.googleapis.com
@@ -50,7 +51,6 @@ cohere.com
 ai21.com
 cursor.com
 windsurf.com
-githubcopilot.com
 notebook.google
 api.openai.com
 api.anthropic.com
