@@ -28,6 +28,7 @@ bingapis.com
 perplexity.ai
 perplexity.com
 grok.com
+accounts.x.ai
 x.ai
 x.com
 meta.ai
