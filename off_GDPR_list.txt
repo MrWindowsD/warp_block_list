@@ -13,6 +13,7 @@ ios.chat.openai.com
 anthropic.com
 claude.ai
 gemini.google.com
+www.google.com
 alkalimakersuite-pa.clients6.google.com
 ai.google
 ai.google.dev
