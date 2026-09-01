@@ -1,4 +1,11 @@
-2ip.ru
+waa-pa.clients6.google.com
+jnn-pa.googleapis.com
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+proactivebackend-pa.googleapis.com
+geller-pa.googleapis.com
+bard.google.com
+assistant.google.com
 chatgpt.com
 openai.com
 oaistatic.com
